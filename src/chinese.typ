@@ -5,7 +5,7 @@
 #init(
     name: "张超",
     // 如不需要头像，可注释掉上面的 pic_path 行，或者将其置空
-    pic_path: "C:/Users/张超/Desktop/张超.jpg"",
+    pic_path: "C:/Users/张超/Desktop/张超.jpg",
     // pic_path : "",
 )
 
